@@ -133,8 +133,7 @@
       "SwiftUI — Pure SwiftUI throughout (including iOS 26 Liquid Glass)",
       "Vision — On-device OCR for English, Traditional Chinese, Japanese, Korean",
       "WidgetKit — Home Screen, Lock Screen, and Control Center widgets",
-      "App Intents — iOS Shortcuts and Siri triggers",
-      "Sign in with Apple — Sole sign-in method"
+      "App Intents — iOS Shortcuts and Siri triggers"
     ],
     "builtwithCompliance": "Compliance",
     "builtwithComplianceList": [
@@ -144,7 +143,6 @@
     ],
     "builtwithInfra": "Supporting Infrastructure",
     "builtwithInfraList": [
-      "Supabase — Vendor product data (fully isolated from personal data)",
       "Swift Testing — 74 unit tests"
     ],
     "assetsTitle": "Download Assets",
@@ -167,26 +165,23 @@
       "Ingredient recognition (OCR) runs on your device. Photos and ingredient text never leave the device.",
       "AI ingredient explanations use Apple Intelligence on-device. No cloud AI is involved.",
       "Your personal allergen profile (family members, allergens, scanned products, scan history) is stored in your private iCloud container — encrypted by Apple. The developer cannot read it.",
-      "Sign in uses Sign in with Apple. We never see your name, email, or Apple ID.",
       "No third-party analytics, no ad SDKs, no trackers.",
-      "Vendor product data (used by the optional recommendations feature) is stored on Supabase and is not linked to your personal profile."
+      "The app does not operate any user account server."
     ],
     "section1Title": "1. Data the app handles",
-    "section1": "On-device only: photos you take to scan ingredients, recognized text from those photos, AI-generated ingredient explanations, OCR language preferences. None of this is uploaded to any server — including ours.\n\niCloud private container: family member profiles, allergen list, saved products, scan history, app settings. This data syncs across your own Apple devices through Apple's CloudKit infrastructure. Apple holds the encryption keys; we have no access.\n\nVendor data (separate): the optional recommendations feature reads a public catalog of skincare products from Supabase. It does not write anything about you to that catalog.",
-    "section2Title": "2. Sign in with Apple",
-    "section2": "We use Sign in with Apple as the sole sign-in method. Apple does not share your email or name with us unless you explicitly choose to. The app only sees an opaque user identifier used for routing iCloud data.",
-    "section3Title": "3. What the developer can see",
-    "section3": "We cannot see your scanned photos, recognized ingredients, family member names, allergens, products, or scan history. All of these live either on your device or in your iCloud private container.\n\nWe can see aggregate App Store metrics (downloads, country, version) provided by Apple to all developers. These are not linked to individual users.",
-    "section4Title": "4. Third-party services",
-    "section4": "Supabase: stores the public vendor product catalog used by the recommendations feature. No personal data is sent to Supabase.\nApple iCloud / CloudKit: stores your personal allergen data in a private container encrypted by Apple.\nApple Sign In: handles authentication.\n\nThere are no other third-party services. No Google Analytics, no Firebase, no Crashlytics, no Sentry, no Facebook SDK, no advertising SDKs.",
-    "section5Title": "5. Children",
-    "section5": "Skinllergic Cam is designed to help parents track allergens for their children. The parent operates the app on their own device with their own Apple ID; the child does not interact with the app directly. We do not knowingly collect data from children under 13.",
-    "section6Title": "6. Your rights",
-    "section6": "You can delete all of your data at any time by signing out and removing the app, or by signing out and deleting your iCloud data for the app via Settings → Apple ID → iCloud → Manage Account Storage.",
-    "section7Title": "7. Changes to this policy",
-    "section7": "If we make material changes, we will update the \"Last updated\" date and, where appropriate, notify you within the app.",
-    "section8Title": "8. Contact",
-    "section8": "Questions? Email ccccaiwork@gmail.com. We typically reply within 24 hours, in English or Traditional Chinese."
+    "section1": "On-device only: photos you take to scan ingredients, recognized text from those photos, AI-generated ingredient explanations, OCR language preferences. None of this is uploaded to any server — including ours.\n\niCloud private container: family member profiles, allergen list, saved products, scan history, app settings. This data syncs across your own Apple devices through Apple's CloudKit infrastructure. Apple holds the encryption keys; we have no access.",
+    "section2Title": "2. What the developer can see",
+    "section2": "We cannot see your scanned photos, recognized ingredients, family member names, allergens, products, or scan history. All of these live either on your device or in your iCloud private container.\n\nWe can see aggregate App Store metrics (downloads, country, version) provided by Apple to all developers. These are not linked to individual users.",
+    "section3Title": "3. Third-party services",
+    "section3": "Apple iCloud / CloudKit: stores your personal allergen data in a private container encrypted by Apple.\n\nThere are no other third-party services. No Google Analytics, no Firebase, no Crashlytics, no Sentry, no Facebook SDK, no advertising SDKs.",
+    "section4Title": "4. Children",
+    "section4": "Skinllergic Cam is designed to help parents track allergens for their children. The parent operates the app on their own device with their own Apple ID; the child does not interact with the app directly. We do not knowingly collect data from children under 13.",
+    "section5Title": "5. Your rights",
+    "section5": "You can delete all of your data at any time by removing the app from your device. To also clear your iCloud-synced data, go to Settings → Apple ID → iCloud → Manage Account Storage → Skinllergic Cam → Delete Data.",
+    "section6Title": "6. Changes to this policy",
+    "section6": "If we make material changes, we will update the \"Last updated\" date and, where appropriate, notify you within the app.",
+    "section7Title": "7. Contact",
+    "section7": "Questions? Email ccccaiwork@gmail.com. We typically reply within 24 hours, in English or Traditional Chinese."
   },
   "support": {
     "title": "Support",
@@ -206,11 +201,11 @@
       },
       {
         "q": "I deleted the app and reinstalled. Will my allergens come back?",
-        "a": "Yes. Sign in with the same Apple ID and your iCloud-synced data (family members, allergens, products, scans) will restore automatically."
+        "a": "Yes. With the same Apple ID signed in to iCloud, your data (family members, allergens, products, scans) will restore automatically after you reinstall."
       },
       {
         "q": "I switched to a new iPhone. Will my data follow?",
-        "a": "Yes. Sign in with Apple on the new device and iCloud will sync everything within a few minutes."
+        "a": "Yes. With the same Apple ID signed in to iCloud on the new device, everything syncs over in a few minutes."
       },
       {
         "q": "Which languages does the OCR support?",

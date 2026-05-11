@@ -133,8 +133,7 @@
       "SwiftUI——全 App 純 SwiftUI（含 iOS 26 Liquid Glass）",
       "Vision——裝置端 OCR，支援繁中／英／日／韓",
       "WidgetKit——主畫面 / 鎖定畫面 / 控制中心 Widget",
-      "App Intents——iOS 捷徑、Siri 觸發",
-      "Sign in with Apple——唯一登入方式"
+      "App Intents——iOS 捷徑、Siri 觸發"
     ],
     "builtwithCompliance": "Compliance",
     "builtwithComplianceList": [
@@ -144,7 +143,6 @@
     ],
     "builtwithInfra": "Supporting Infrastructure",
     "builtwithInfraList": [
-      "Supabase——廠商商品資料（與個人資料完全隔離）",
       "Swift Testing——74 unit tests"
     ],
     "assetsTitle": "下載素材",
@@ -167,26 +165,23 @@
       "成分辨識（OCR）在你的裝置本機執行，照片與成分文字從不離開裝置。",
       "AI 成分解釋使用 Apple Intelligence 在裝置端執行，完全不經雲端 AI。",
       "你的個人過敏資料（家人、過敏原、儲存的產品、掃描紀錄）存在你的 iCloud 私人容器，由 Apple 加密，開發者無法讀取。",
-      "登入使用 Sign in with Apple，開發者看不到你的姓名、Email、Apple ID。",
       "無任何第三方分析、廣告 SDK、tracker。",
-      "廠商商品資料（推薦功能使用）獨立存放於 Supabase，與你的個人資料完全隔離。"
+      "App 不經營任何使用者帳號伺服器。"
     ],
     "section1Title": "1. App 處理的資料",
-    "section1": "僅限裝置端：你拍的成分照片、辨識出的文字、AI 產生的成分解釋、OCR 語言偏好。以上資料不會上傳到任何伺服器——包括我們的。\n\niCloud 私人容器：家人 profile、過敏原清單、儲存的產品、掃描紀錄、App 設定。透過 Apple CloudKit 在你自己的 Apple 裝置間同步。Apple 持有加密金鑰，我們無法存取。\n\n廠商資料（獨立）：推薦功能使用一份公開的保養品目錄，存放於 Supabase。此目錄不會記錄任何關於你的資訊。",
-    "section2Title": "2. Sign in with Apple",
-    "section2": "我們僅使用 Sign in with Apple 作為登入方式。除非你明確同意，否則 Apple 不會把你的 Email 與姓名提供給我們。App 只看到一個不透明的使用者識別碼，用以路由你的 iCloud 資料。",
-    "section3Title": "3. 開發者能看到什麼",
-    "section3": "我們看不到你掃描的照片、辨識出的成分、家人名稱、過敏原、產品、掃描紀錄。以上資料都存在你的裝置上或你的 iCloud 私人容器。\n\n我們能看到的，只有 Apple 提供給所有開發者的 App Store 統計數據（下載量、國家、版本），這些資料無法對應到個別使用者。",
-    "section4Title": "4. 第三方服務",
-    "section4": "Supabase：儲存公開的廠商商品目錄。不會接收任何個人資料。\nApple iCloud / CloudKit：在你的私人容器儲存個人過敏資料，由 Apple 加密。\nApple Sign In：處理登入驗證。\n\n除此之外無其他第三方服務。無 Google Analytics、無 Firebase、無 Crashlytics、無 Sentry、無 Facebook SDK、無任何廣告 SDK。",
-    "section5Title": "5. 兒童使用",
-    "section5": "肌敏雷達設計給父母幫孩子追蹤過敏原。父母在自己的裝置上以自己的 Apple ID 操作 App，孩子不直接使用 App。我們不會在知情下收集 13 歲以下兒童的資料。",
-    "section6Title": "6. 你的權利",
-    "section6": "你可以隨時刪除所有資料：登出後移除 App，或從「設定 → Apple ID → iCloud → 管理帳號儲存空間」刪除本 App 的 iCloud 資料。",
-    "section7Title": "7. 政策變更",
-    "section7": "若有重大變更，我們會更新本頁的「最後更新」日期，必要時於 App 內通知。",
-    "section8Title": "8. 聯絡",
-    "section8": "有疑問？來信 ccccaiwork@gmail.com，通常 24 小時內回覆，中英皆可。"
+    "section1": "僅限裝置端：你拍的成分照片、辨識出的文字、AI 產生的成分解釋、OCR 語言偏好。以上資料不會上傳到任何伺服器——包括我們的。\n\niCloud 私人容器：家人 profile、過敏原清單、儲存的產品、掃描紀錄、App 設定。透過 Apple CloudKit 在你自己的 Apple 裝置間同步。Apple 持有加密金鑰，我們無法存取。",
+    "section2Title": "2. 開發者能看到什麼",
+    "section2": "我們看不到你掃描的照片、辨識出的成分、家人名稱、過敏原、產品、掃描紀錄。以上資料都存在你的裝置上或你的 iCloud 私人容器。\n\n我們能看到的，只有 Apple 提供給所有開發者的 App Store 統計數據（下載量、國家、版本），這些資料無法對應到個別使用者。",
+    "section3Title": "3. 第三方服務",
+    "section3": "Apple iCloud / CloudKit：在你的私人容器儲存個人過敏資料，由 Apple 加密。\n\n除此之外無其他第三方服務。無 Google Analytics、無 Firebase、無 Crashlytics、無 Sentry、無 Facebook SDK、無任何廣告 SDK。",
+    "section4Title": "4. 兒童使用",
+    "section4": "肌敏雷達設計給父母幫孩子追蹤過敏原。父母在自己的裝置上以自己的 Apple ID 操作 App，孩子不直接使用 App。我們不會在知情下收集 13 歲以下兒童的資料。",
+    "section5Title": "5. 你的權利",
+    "section5": "你可以隨時刪除所有資料：移除 App 即可清除裝置上的資料。如需同時清除 iCloud 上的同步資料，請至「設定 → Apple ID → iCloud → 管理帳號儲存空間 → 肌敏雷達 → 刪除資料」。",
+    "section6Title": "6. 政策變更",
+    "section6": "若有重大變更，我們會更新本頁的「最後更新」日期，必要時於 App 內通知。",
+    "section7Title": "7. 聯絡",
+    "section7": "有疑問？來信 ccccaiwork@gmail.com，通常 24 小時內回覆，中英皆可。"
   },
   "support": {
     "title": "支援",
@@ -206,11 +201,11 @@
       },
       {
         "q": "我刪掉 App 又重灌，過敏原資料還會回來嗎？",
-        "a": "會。用同一個 Apple ID 登入，iCloud 同步的資料（家人、過敏原、產品、掃描紀錄）會自動還原。"
+        "a": "會。只要裝置上的 Apple ID 已登入 iCloud，重灌後同步的資料（家人、過敏原、產品、掃描紀錄）會自動還原。"
       },
       {
         "q": "我換新 iPhone，資料會跟過去嗎？",
-        "a": "會。新裝置上用 Sign in with Apple 登入，iCloud 會在幾分鐘內把所有資料同步過去。"
+        "a": "會。新裝置上以同一個 Apple ID 登入 iCloud，幾分鐘內所有資料就會同步過去。"
       },
       {
         "q": "OCR 支援哪些語言？",
