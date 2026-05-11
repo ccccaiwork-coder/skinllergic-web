@@ -173,7 +173,7 @@
     "section2Title": "2. What the developer can see",
     "section2": "We cannot see your scanned photos, recognized ingredients, family member names, allergens, products, or scan history. All of these live either on your device or in your iCloud private container.\n\nWe can see aggregate App Store metrics (downloads, country, version) provided by Apple to all developers. These are not linked to individual users.",
     "section3Title": "3. Third-party services",
-    "section3": "Apple iCloud / CloudKit: stores your personal allergen data in a private container encrypted by Apple.\n\nThere are no other third-party services. No Google Analytics, no Firebase, no Crashlytics, no Sentry, no Facebook SDK, no advertising SDKs.",
+    "section3": "Apple iCloud / CloudKit: stores your personal allergen data in a private container encrypted by Apple.\n\nSupabase (one-time migration only): if you are upgrading from v1.0, the app reads your previously stored data from Supabase once and writes it to your device and iCloud. After migration completes, the app no longer communicates with Supabase. No data created in v2.0 or later is sent to Supabase.\n\nThere are no other third-party services. No Google Analytics, no Firebase, no Crashlytics, no Sentry, no Facebook SDK, no advertising SDKs.",
     "section4Title": "4. Children",
     "section4": "Skinllergic Cam is designed to help parents track allergens for their children. The parent operates the app on their own device with their own Apple ID; the child does not interact with the app directly. We do not knowingly collect data from children under 13.",
     "section5Title": "5. Your rights",

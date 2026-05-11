@@ -173,7 +173,7 @@
     "section2Title": "2. 開發者能看到什麼",
     "section2": "我們看不到你掃描的照片、辨識出的成分、家人名稱、過敏原、產品、掃描紀錄。以上資料都存在你的裝置上或你的 iCloud 私人容器。\n\n我們能看到的，只有 Apple 提供給所有開發者的 App Store 統計數據（下載量、國家、版本），這些資料無法對應到個別使用者。",
     "section3Title": "3. 第三方服務",
-    "section3": "Apple iCloud / CloudKit：在你的私人容器儲存個人過敏資料，由 Apple 加密。\n\n除此之外無其他第三方服務。無 Google Analytics、無 Firebase、無 Crashlytics、無 Sentry、無 Facebook SDK、無任何廣告 SDK。",
+    "section3": "Apple iCloud / CloudKit：在你的私人容器儲存個人過敏資料，由 Apple 加密。\n\nSupabase（僅限一次性遷移）：v1.0 升級至 v2.0 時，App 會一次性從 Supabase 讀取你先前儲存的資料，寫入本機與你的 iCloud。遷移完成後，App 不再與 Supabase 通訊。v2.0 之後新建的所有資料皆不會傳至 Supabase。\n\n除此之外無其他第三方服務。無 Google Analytics、無 Firebase、無 Crashlytics、無 Sentry、無 Facebook SDK、無任何廣告 SDK。",
     "section4Title": "4. 兒童使用",
     "section4": "肌敏雷達設計給父母幫孩子追蹤過敏原。父母在自己的裝置上以自己的 Apple ID 操作 App，孩子不直接使用 App。我們不會在知情下收集 13 歲以下兒童的資料。",
     "section5Title": "5. 你的權利",
