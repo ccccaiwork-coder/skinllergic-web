@@ -1,7 +1,7 @@
 import { setRequestLocale, getTranslations } from "next-intl/server";
 import { Container } from "@/components/Container";
 import { AppStoreButton } from "@/components/AppStoreButton";
-import { ScreenshotPlaceholder } from "@/components/ScreenshotPlaceholder";
+import { Screenshot } from "@/components/Screenshot";
 import { Link } from "@/i18n/navigation";
 
 export default async function HomePage({
@@ -31,6 +31,13 @@ export default async function HomePage({
   ] as const;
 
   const captions = ts.raw("captions") as string[];
+  const screenshotSrcs = [
+    "/screenshots/1-verdict.png",
+    "/screenshots/2-family.png",
+    "/screenshots/3-compare.png",
+    "/screenshots/4-widget.png",
+    "/screenshots/5-ai-explain.png",
+  ];
 
   return (
     <>
@@ -97,7 +104,12 @@ export default async function HomePage({
           <div className="mt-12 -mx-6 md:-mx-8 overflow-x-auto snap-x snap-mandatory">
             <div className="flex gap-6 px-6 md:px-8 pb-4">
               {captions.map((caption, i) => (
-                <ScreenshotPlaceholder key={i} caption={caption} index={i} />
+                <Screenshot
+                  key={i}
+                  src={screenshotSrcs[i]}
+                  caption={caption}
+                  index={i}
+                />
               ))}
             </div>
           </div>
