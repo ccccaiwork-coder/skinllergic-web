@@ -21,7 +21,7 @@
     "subtitle": "Skinllergic Cam is an on-device iOS app that scans skincare ingredients, flags risks per family member, and helps you compare reaction-causing products to surface the ingredient that keeps showing up — the real culprit.",
     "ctaPrimary": "Download on the App Store",
     "ctaSecondary": "View Press Kit",
-    "comingSoon": "Coming July 8, 2026 — World Allergy Day"
+    "launchStatus": "Coming soon to the App Store"
   },
   "features": {
     "title": "Built for families with sensitive skin",
@@ -80,7 +80,7 @@
   },
   "cta": {
     "title": "Stop guessing. Start finding.",
-    "body": "Skinllergic Cam v2.0 launches July 8, 2026 — World Allergy Day. Free on the App Store.",
+    "body": "Skinllergic Cam v2.0. Free on the App Store — no IAP, no ads, no trackers.",
     "button": "Download on the App Store"
   },
   "footer": {
@@ -91,7 +91,7 @@
   "press": {
     "title": "Press Kit",
     "subtitle": "Everything you need to write about Skinllergic Cam in one page. For interviews or assets, email ccccaiwork@gmail.com — usually within 24 hours, EN / 中文.",
-    "wad": "v2.0 launches July 8, 2026 — World Allergy Day",
+    "wad": "v2.0 — ahead of World Allergy Day, July 8, 2026",
     "pitchTitle": "30-Second Pitch",
     "pitch": "Skinllergic Cam is an iOS allergen-tracking app for families. Scan a skincare label, get a one-glance Safer / Caution / Avoid verdict, and use the \"compare allergic products\" feature to surface the ingredient that keeps causing reactions — the real culprit. Multi-family mode, iCloud sync across devices, and Apple Intelligence ingredient explanations — all running on-device, with personal data never leaving your phone.",
     "ataglanceTitle": "At a Glance",
@@ -107,7 +107,7 @@
       "price": "Price",
       "priceV": "Free — no IAP, no ads, no trackers",
       "launch": "Launch",
-      "launchV": "July 8, 2026 — World Allergy Day"
+      "launchV": "May 2026 (ahead of World Allergy Day, July 8)"
     },
     "differentiatorsTitle": "What Sets Us Apart",
     "differentiators": [

@@ -40,7 +40,7 @@ export default async function HomePage({
         <Container className="pt-20 pb-24 md:pt-28 md:pb-32 text-center">
           <p className="inline-flex items-center gap-2 rounded-full border border-brand/20 bg-white/60 px-4 py-1.5 text-xs font-medium text-brand">
             <span className="size-1.5 rounded-full bg-brand animate-pulse" />
-            {t("comingSoon")}
+            {t("launchStatus")}
           </p>
           <h1 className="mt-7 text-balance text-5xl md:text-7xl font-semibold tracking-tight text-ink leading-[1.05]">
             {t("title")}

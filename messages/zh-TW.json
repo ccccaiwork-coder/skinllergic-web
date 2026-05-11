@@ -21,7 +21,7 @@
     "subtitle": "肌敏雷達是一款裝置端運作的 iOS App：掃描保養品成分、用三色卡判別風險，「比較踩雷產品」幫你對照多個出狀況的產品，找出反覆出現的成分——那才是真正的過敏原。",
     "ctaPrimary": "下載 App Store",
     "ctaSecondary": "媒體資料",
-    "comingSoon": "2026 年 7 月 8 日 World Allergy Day 上線"
+    "launchStatus": "App Store 上線在即"
   },
   "features": {
     "title": "為有敏感肌的家庭設計",
@@ -80,7 +80,7 @@
   },
   "cta": {
     "title": "不要再用猜的，直接找出來",
-    "body": "肌敏雷達 v2.0 將於 2026 年 7 月 8 日 World Allergy Day 上線，免費下載。",
+    "body": "肌敏雷達 v2.0 — App Store 免費下載，無 IAP、無廣告、無 tracker。",
     "button": "下載 App Store"
   },
   "footer": {
@@ -91,7 +91,7 @@
   "press": {
     "title": "媒體資料",
     "subtitle": "撰寫肌敏雷達相關報導所需資訊都在這裡。媒體訪問或素材需求請 email ccccaiwork@gmail.com，通常 24 小時內回覆，中／英皆可。",
-    "wad": "v2.0 預計 2026 年 7 月 8 日 World Allergy Day 上線",
+    "wad": "v2.0——搶在 2026 年 7 月 8 日 World Allergy Day 之前上線",
     "pitchTitle": "30 秒一句話介紹",
     "pitch": "肌敏雷達是一款 iOS 過敏成分管理 App：掃描保養品標籤、用三色卡判斷風險，「比較踩雷產品」幫你找出反覆出現的真正過敏原。父母可幫家人各自管理過敏原、跨裝置 iCloud 同步、AI 白話解釋成分——全部在裝置端執行，個資不上雲端伺服器。",
     "ataglanceTitle": "重點資訊",
@@ -107,7 +107,7 @@
       "price": "價格",
       "priceV": "免費——無 IAP、無廣告、無 tracker",
       "launch": "上線日期",
-      "launchV": "2026 年 7 月 8 日 World Allergy Day"
+      "launchV": "2026 年 5 月（搶在 7/8 World Allergy Day 之前）"
     },
     "differentiatorsTitle": "核心差異",
     "differentiators": [
