@@ -1,0 +1,241 @@
+{
+  "meta": {
+    "title": "Skinllergic Cam — Find the real allergen",
+    "description": "iOS app for families to scan skincare labels, flag risky ingredients per family member, and compare reaction-causing products to surface the real culprit.",
+    "siteName": "Skinllergic Cam"
+  },
+  "nav": {
+    "home": "Home",
+    "press": "Press",
+    "privacy": "Privacy",
+    "support": "Support",
+    "appStore": "Download on the App Store"
+  },
+  "lang": {
+    "en": "English",
+    "zh-TW": "繁中"
+  },
+  "hero": {
+    "eyebrow": "Allergen tracking for the whole family",
+    "title": "Scan a label. Find the real allergen.",
+    "subtitle": "Skinllergic Cam is an on-device iOS app that scans skincare ingredients, flags risks per family member, and helps you compare reaction-causing products to surface the ingredient that keeps showing up — the real culprit.",
+    "ctaPrimary": "Download on the App Store",
+    "ctaSecondary": "View Press Kit",
+    "comingSoon": "Coming July 8, 2026 — World Allergy Day"
+  },
+  "features": {
+    "title": "Built for families with sensitive skin",
+    "subtitle": "Nine features that work together so a parent can stop guessing.",
+    "verdict": {
+      "title": "Three-Color Verdict",
+      "body": "Avoid, Caution, or Safer — one card sums up the whole label at a glance."
+    },
+    "compare": {
+      "title": "Compare Allergic Products",
+      "body": "Line up every product that gave your family a reaction. The ingredient that keeps reappearing is the real allergen."
+    },
+    "family": {
+      "title": "Multi-Family Mode",
+      "body": "Track allergens for up to five family members — including babies and older relatives who don't have their own phone."
+    },
+    "ai": {
+      "title": "Apple Intelligence Explanations",
+      "body": "On-device AI translates complex ingredient names into plain language. Nothing leaves your phone."
+    },
+    "icloud": {
+      "title": "iCloud Sync",
+      "body": "Family, products, allergens, and scan history stay in step across all your Apple devices."
+    },
+    "seasonal": {
+      "title": "Seasonal Reminders",
+      "body": "Monthly, climate-tuned alerts so you know which allergens to watch out for this month."
+    },
+    "widgets": {
+      "title": "Widgets & Control Center",
+      "body": "One-tap scan from the Home Screen, Lock Screen, or Control Center."
+    },
+    "ocr": {
+      "title": "Japanese & Korean OCR",
+      "body": "Scan ingredient labels on Japanese and Korean skincare products. Four languages total."
+    },
+    "shortcuts": {
+      "title": "Siri & Shortcuts",
+      "body": "Ask Siri to check an ingredient or open the scanner — no taps needed."
+    }
+  },
+  "screenshots": {
+    "title": "See it in action",
+    "captions": [
+      "Verdict Card — At-a-glance Safer / Caution / Avoid",
+      "Family chips — Each person, their own allergens",
+      "Compare Products — Find the repeating culprit",
+      "Widget — Quick scan from your Home Screen",
+      "AI Explanations — Plain-language ingredient info"
+    ]
+  },
+  "privacyBanner": {
+    "title": "Privacy First — by design",
+    "body": "Ingredient OCR (Vision), AI explanations (Apple Intelligence), and allergen matching all run on-device. Personal allergen data lives in your private iCloud container — encrypted by Apple, inaccessible to us. No third-party trackers. No analytics. No ads. No in-app purchases.",
+    "learnMore": "Read the privacy policy"
+  },
+  "cta": {
+    "title": "Stop guessing. Start finding.",
+    "body": "Skinllergic Cam v2.0 launches July 8, 2026 — World Allergy Day. Free on the App Store.",
+    "button": "Download on the App Store"
+  },
+  "footer": {
+    "tagline": "Built in Taipei. For families with sensitive skin.",
+    "copyright": "© 2026 Skinllergic Cam. All rights reserved.",
+    "contact": "Contact"
+  },
+  "press": {
+    "title": "Press Kit",
+    "subtitle": "Everything you need to write about Skinllergic Cam in one page. For interviews or assets, email ccccaiwork@gmail.com — usually within 24 hours, EN / 中文.",
+    "wad": "v2.0 launches July 8, 2026 — World Allergy Day",
+    "pitchTitle": "30-Second Pitch",
+    "pitch": "Skinllergic Cam is an iOS allergen-tracking app for families. Scan a skincare label, get a one-glance Safer / Caution / Avoid verdict, and use the \"compare allergic products\" feature to surface the ingredient that keeps causing reactions — the real culprit. Multi-family mode, iCloud sync across devices, and Apple Intelligence ingredient explanations — all running on-device, with personal data never leaving your phone.",
+    "ataglanceTitle": "At a Glance",
+    "ataglance": {
+      "app": "App name",
+      "appV": "Skinllergic Cam (肌敏雷達)",
+      "platform": "Platform",
+      "platformV": "iOS 17+ (Apple Intelligence requires iOS 26+ supported devices)",
+      "category": "App Store category",
+      "categoryV": "Health & Fitness",
+      "languages": "Languages",
+      "languagesV": "English / Traditional Chinese",
+      "price": "Price",
+      "priceV": "Free — no IAP, no ads, no trackers",
+      "launch": "Launch",
+      "launchV": "July 8, 2026 — World Allergy Day"
+    },
+    "differentiatorsTitle": "What Sets Us Apart",
+    "differentiators": [
+      "4 OCR languages — English, Traditional Chinese, Japanese, Korean (most allergen scanners support English only or 1-2 languages)",
+      "Multi-family mode — one app tracks up to 5 family members each with their own allergen list",
+      "Apple Intelligence on-device — ingredient explanations generated locally, zero cloud AI calls",
+      "iCloud private container — personal allergen data is encrypted by Apple, inaccessible to the developer",
+      "Full Apple ecosystem integration — Widget × 3, Shortcuts, Siri, Control Center",
+      "Seasonal reminders tuned to Taiwan's 12-month climate (not generic Western data)",
+      "Velocity — v1.0 to v2.0 in 30 days, 64 commits, 74 unit tests, full Privacy Manifest compliance",
+      "Free forever — no IAP, no ads, no third-party trackers"
+    ],
+    "whyTitle": "Why It Matters",
+    "why": "Skin-care ingredient labels are long, technical, and unforgiving — and when a child breaks out, you usually have no way to know which ingredient caused it. Skinllergic Cam scans a label in one shot, flags risky ingredients per family member, and adds a \"compare allergic products\" feature: line up every product that gave a reaction and surface the ingredient that keeps reappearing — that's the real allergen. All ingredient matching and AI inference run on-device; personal allergen data never leaves your phone.\n\nv2.0 adds iCloud cross-device sync, multi-family mode (parents tracking allergens for babies and older relatives without their own phones), Home Screen and Lock Screen Widgets, monthly seasonal reminders, iOS Shortcuts, and OCR for Japanese / Korean labels. Built by a solo iOS developer in Taiwan using the latest Apple technologies — small, focused, and quietly thoughtful.",
+    "founderTitle": "About the Developer",
+    "founder": "I have three daughters, each with different skin sensitivities. Whenever they broke out, I had no way to tell which ingredient was the culprit — I'd just switch brands, watch the rash come back, and guess again.\n\nSkinllergic Cam is built around that frustration. Beyond scanning a single product, the heart of the app is the \"compare allergic products\" feature: line up every product that gave one of my kids a reaction, find the ingredient that keeps showing up — that's the real allergen.\n\nLater I added multi-family mode (so each daughter has her own list), Apple Intelligence to explain ingredients in plain language, and iCloud sync so allergen info stays in step across devices. As a solo iOS developer, I wanted to use the latest Apple technologies to make something genuinely useful for my own kids — and share it with every family in the same boat.",
+    "builtwithTitle": "Built With",
+    "builtwithApple": "Apple Frameworks (on-device, native)",
+    "builtwithAppleList": [
+      "Apple Intelligence / Foundation Models — On-device AI ingredient explanations (iOS 26+)",
+      "CloudKit — iCloud private container cross-device sync",
+      "SwiftData — Native data layer mirrored to CloudKit",
+      "SwiftUI — Pure SwiftUI throughout (including iOS 26 Liquid Glass)",
+      "Vision — On-device OCR for English, Traditional Chinese, Japanese, Korean",
+      "WidgetKit — Home Screen, Lock Screen, and Control Center widgets",
+      "App Intents — iOS Shortcuts and Siri triggers",
+      "Sign in with Apple — Sole sign-in method"
+    ],
+    "builtwithCompliance": "Compliance",
+    "builtwithComplianceList": [
+      "PrivacyInfo.xcprivacy — iOS 17+ Privacy Manifest fully declared",
+      "App Transport Security — HTTPS enforced",
+      "No third-party SDKs — no Firebase, no Crashlytics, no analytics"
+    ],
+    "builtwithInfra": "Supporting Infrastructure",
+    "builtwithInfraList": [
+      "Supabase — Vendor product data (fully isolated from personal data)",
+      "Swift Testing — 74 unit tests"
+    ],
+    "assetsTitle": "Download Assets",
+    "assetsNote": "High-resolution App Icon and screenshots available on request.",
+    "contactTitle": "Press Contact",
+    "contactEmail": "Email",
+    "contactResponse": "Response time",
+    "contactResponseV": "usually within 24 hours",
+    "contactLangs": "Languages",
+    "contactLangsV": "English / 中文",
+    "contactLocation": "Location",
+    "contactLocationV": "Taipei, Taiwan"
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Last updated: May 11, 2026",
+    "intro": "Skinllergic Cam is built around a simple principle: your allergen data is yours. This policy explains, in plain language, what data the app handles, where it lives, and what we (the developer) can or cannot see.",
+    "tldrTitle": "Summary",
+    "tldr": [
+      "Ingredient recognition (OCR) runs on your device. Photos and ingredient text never leave the device.",
+      "AI ingredient explanations use Apple Intelligence on-device. No cloud AI is involved.",
+      "Your personal allergen profile (family members, allergens, scanned products, scan history) is stored in your private iCloud container — encrypted by Apple. The developer cannot read it.",
+      "Sign in uses Sign in with Apple. We never see your name, email, or Apple ID.",
+      "No third-party analytics, no ad SDKs, no trackers.",
+      "Vendor product data (used by the optional recommendations feature) is stored on Supabase and is not linked to your personal profile."
+    ],
+    "section1Title": "1. Data the app handles",
+    "section1": "On-device only: photos you take to scan ingredients, recognized text from those photos, AI-generated ingredient explanations, OCR language preferences. None of this is uploaded to any server — including ours.\n\niCloud private container: family member profiles, allergen list, saved products, scan history, app settings. This data syncs across your own Apple devices through Apple's CloudKit infrastructure. Apple holds the encryption keys; we have no access.\n\nVendor data (separate): the optional recommendations feature reads a public catalog of skincare products from Supabase. It does not write anything about you to that catalog.",
+    "section2Title": "2. Sign in with Apple",
+    "section2": "We use Sign in with Apple as the sole sign-in method. Apple does not share your email or name with us unless you explicitly choose to. The app only sees an opaque user identifier used for routing iCloud data.",
+    "section3Title": "3. What the developer can see",
+    "section3": "We cannot see your scanned photos, recognized ingredients, family member names, allergens, products, or scan history. All of these live either on your device or in your iCloud private container.\n\nWe can see aggregate App Store metrics (downloads, country, version) provided by Apple to all developers. These are not linked to individual users.",
+    "section4Title": "4. Third-party services",
+    "section4": "Supabase: stores the public vendor product catalog used by the recommendations feature. No personal data is sent to Supabase.\nApple iCloud / CloudKit: stores your personal allergen data in a private container encrypted by Apple.\nApple Sign In: handles authentication.\n\nThere are no other third-party services. No Google Analytics, no Firebase, no Crashlytics, no Sentry, no Facebook SDK, no advertising SDKs.",
+    "section5Title": "5. Children",
+    "section5": "Skinllergic Cam is designed to help parents track allergens for their children. The parent operates the app on their own device with their own Apple ID; the child does not interact with the app directly. We do not knowingly collect data from children under 13.",
+    "section6Title": "6. Your rights",
+    "section6": "You can delete all of your data at any time by signing out and removing the app, or by signing out and deleting your iCloud data for the app via Settings → Apple ID → iCloud → Manage Account Storage.",
+    "section7Title": "7. Changes to this policy",
+    "section7": "If we make material changes, we will update the \"Last updated\" date and, where appropriate, notify you within the app.",
+    "section8Title": "8. Contact",
+    "section8": "Questions? Email ccccaiwork@gmail.com. We typically reply within 24 hours, in English or Traditional Chinese."
+  },
+  "support": {
+    "title": "Support",
+    "subtitle": "Hit a bug or have a question? Here's how to get help.",
+    "contactTitle": "Get in touch",
+    "contactBody": "Email ccccaiwork@gmail.com — usually within 24 hours, in English or 中文.",
+    "contactCta": "Email Support",
+    "faqTitle": "Frequently Asked Questions",
+    "faq": [
+      {
+        "q": "Does Skinllergic Cam send my data to the cloud?",
+        "a": "Your personal allergen profile syncs across your own Apple devices via iCloud (encrypted by Apple). The developer cannot read it. Ingredient OCR and AI explanations run entirely on-device. See the Privacy Policy for details."
+      },
+      {
+        "q": "Why isn't Apple Intelligence showing the AI explanations?",
+        "a": "Apple Intelligence requires iOS 26+ on a supported device (iPhone 15 Pro or later). If you're on an older device or older iOS, the rest of the app works normally — only the AI plain-language explanations are unavailable."
+      },
+      {
+        "q": "I deleted the app and reinstalled. Will my allergens come back?",
+        "a": "Yes. Sign in with the same Apple ID and your iCloud-synced data (family members, allergens, products, scans) will restore automatically."
+      },
+      {
+        "q": "I switched to a new iPhone. Will my data follow?",
+        "a": "Yes. Sign in with Apple on the new device and iCloud will sync everything within a few minutes."
+      },
+      {
+        "q": "Which languages does the OCR support?",
+        "a": "English, Traditional Chinese, Japanese, and Korean. You can pick which languages to enable in Settings → OCR Languages."
+      },
+      {
+        "q": "How many family members can I add?",
+        "a": "Up to five — typically enough for a household. The \"me\" profile is created automatically."
+      },
+      {
+        "q": "Can I export my allergen list?",
+        "a": "Allergen lists can be exported and imported through the Allergen List tab. Useful for sharing with doctors or backing up before changes."
+      },
+      {
+        "q": "Is the app really free? What's the catch?",
+        "a": "Yes, free. No in-app purchases, no ads, no third-party trackers. The app is built and maintained by a solo developer who wanted a tool that worked for his own kids."
+      },
+      {
+        "q": "I found a wrong ingredient match / bug — how do I report it?",
+        "a": "Email ccccaiwork@gmail.com with a screenshot or short description. Specific is better — \"product X says ingredient Y is risky but Y is the salt form, not the parent compound\" is more helpful than \"the matching is wrong\"."
+      },
+      {
+        "q": "Can I request a feature?",
+        "a": "Yes — email is best. The roadmap is set by what feels useful for families with sensitive skin, so anecdotes about your situation help calibrate priorities."
+      }
+    ]
+  }
+}

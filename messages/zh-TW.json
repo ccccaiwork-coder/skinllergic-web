@@ -1,0 +1,241 @@
+{
+  "meta": {
+    "title": "肌敏雷達 — 找出真正的過敏原",
+    "description": "iOS App，幫家人掃描保養品成分標籤、判別風險、比較踩雷產品，找出反覆出現的真正過敏原。",
+    "siteName": "肌敏雷達"
+  },
+  "nav": {
+    "home": "首頁",
+    "press": "媒體資料",
+    "privacy": "隱私權",
+    "support": "支援",
+    "appStore": "下載 App Store"
+  },
+  "lang": {
+    "en": "English",
+    "zh-TW": "繁中"
+  },
+  "hero": {
+    "eyebrow": "為家人追蹤過敏成分的 iOS App",
+    "title": "一鏡掃過，找出真正的過敏原",
+    "subtitle": "肌敏雷達是一款裝置端運作的 iOS App：掃描保養品成分、用三色卡判別風險，「比較踩雷產品」幫你對照多個出狀況的產品，找出反覆出現的成分——那才是真正的過敏原。",
+    "ctaPrimary": "下載 App Store",
+    "ctaSecondary": "媒體資料",
+    "comingSoon": "2026 年 7 月 8 日 World Allergy Day 上線"
+  },
+  "features": {
+    "title": "為有敏感肌的家庭設計",
+    "subtitle": "九個功能環環相扣，讓父母不必再用猜的",
+    "verdict": {
+      "title": "三色判斷卡",
+      "body": "不建議使用 / 需注意 / 相對安全——一張卡告訴你整瓶該不該用。"
+    },
+    "compare": {
+      "title": "比較踩雷產品",
+      "body": "把每次出狀況的產品成分一起對照，反覆出現的那個——就是真正的過敏原。"
+    },
+    "family": {
+      "title": "多家人模式",
+      "body": "1 個 App 追蹤最多 5 位家人，包含無手機的小朋友、長輩。"
+    },
+    "ai": {
+      "title": "Apple Intelligence 解釋",
+      "body": "裝置端 AI 把複雜成分翻成白話，資料從不離開你的手機。"
+    },
+    "icloud": {
+      "title": "iCloud 跨裝置同步",
+      "body": "家人、產品、過敏原、掃描紀錄在所有 Apple 裝置即時同步。"
+    },
+    "seasonal": {
+      "title": "季節提醒",
+      "body": "依台灣 12 個月氣候本位，每月主動提醒家中過敏原。"
+    },
+    "widgets": {
+      "title": "Widget 全套",
+      "body": "主畫面、鎖定畫面、控制中心一鍵掃描。"
+    },
+    "ocr": {
+      "title": "日韓 OCR",
+      "body": "直接掃日本、韓國保養品成分標籤，共支援 4 種語言。"
+    },
+    "shortcuts": {
+      "title": "Siri / 捷徑",
+      "body": "「Hey Siri，肌敏雷達 查 Linalool」——不用打開 App。"
+    }
+  },
+  "screenshots": {
+    "title": "實際畫面",
+    "captions": [
+      "三色 Verdict 卡——一眼看完整瓶風險",
+      "家人 chips——每個家人各自的過敏原",
+      "比較踩雷產品——找出反覆出現的真兇",
+      "主畫面 Widget——快速掃描",
+      "AI 白話解釋——成分一秒看懂"
+    ]
+  },
+  "privacyBanner": {
+    "title": "Privacy First——從設計開始就守住",
+    "body": "成分辨識（Vision OCR）、AI 解釋（Apple Intelligence）、過敏原比對全在裝置本機執行。個人過敏資料存於 iCloud 私人容器，由 Apple 加密、開發者讀不到。無第三方 tracker、無分析、無廣告、無 IAP。",
+    "learnMore": "閱讀完整隱私權政策"
+  },
+  "cta": {
+    "title": "不要再用猜的，直接找出來",
+    "body": "肌敏雷達 v2.0 將於 2026 年 7 月 8 日 World Allergy Day 上線，免費下載。",
+    "button": "下載 App Store"
+  },
+  "footer": {
+    "tagline": "在台北做，給敏感肌家庭使用",
+    "copyright": "© 2026 肌敏雷達 Skinllergic Cam.",
+    "contact": "聯絡"
+  },
+  "press": {
+    "title": "媒體資料",
+    "subtitle": "撰寫肌敏雷達相關報導所需資訊都在這裡。媒體訪問或素材需求請 email ccccaiwork@gmail.com，通常 24 小時內回覆，中／英皆可。",
+    "wad": "v2.0 預計 2026 年 7 月 8 日 World Allergy Day 上線",
+    "pitchTitle": "30 秒一句話介紹",
+    "pitch": "肌敏雷達是一款 iOS 過敏成分管理 App：掃描保養品標籤、用三色卡判斷風險，「比較踩雷產品」幫你找出反覆出現的真正過敏原。父母可幫家人各自管理過敏原、跨裝置 iCloud 同步、AI 白話解釋成分——全部在裝置端執行，個資不上雲端伺服器。",
+    "ataglanceTitle": "重點資訊",
+    "ataglance": {
+      "app": "App 名稱",
+      "appV": "肌敏雷達（Skinllergic Cam）",
+      "platform": "支援平台",
+      "platformV": "iOS 17+（Apple Intelligence 解釋需 iOS 26+ 支援裝置）",
+      "category": "App Store 分類",
+      "categoryV": "健康與健身",
+      "languages": "語言",
+      "languagesV": "繁體中文 / English",
+      "price": "價格",
+      "priceV": "免費——無 IAP、無廣告、無 tracker",
+      "launch": "上線日期",
+      "launchV": "2026 年 7 月 8 日 World Allergy Day"
+    },
+    "differentiatorsTitle": "核心差異",
+    "differentiators": [
+      "4 種 OCR 語言——繁中、英、日、韓（同類 App 多數僅支援英文或 1-2 種）",
+      "多家人模式——1 個 App 同時追蹤最多 5 位家人各自的過敏原",
+      "Apple Intelligence on-device——成分白話解釋全程在裝置端執行，零雲端 AI 呼叫",
+      "iCloud 私人容器——個人過敏資料連開發者都讀不到",
+      "完整 Apple 生態整合——Widget × 3、Shortcuts、Siri、Control Center",
+      "季節性提醒——依台灣 12 個月氣候本位設計（非套用歐美資料）",
+      "開發節奏——30 天內從 v1.0 衝刺到 v2.0，64 commits、74 unit tests、Privacy Manifest 全合規",
+      "完全免費——無 IAP、無廣告、無第三方 tracker"
+    ],
+    "whyTitle": "為何重要",
+    "why": "保養品成分表又長又難讀，對小朋友、敏感肌、有特定過敏原的人尤其折磨——更糟的是，當孩子起疹子，你根本不知道是哪個成分害的。肌敏雷達讓父母一鏡掃過、即時看出哪些成分對家人有風險，並提供「比較踩雷產品」功能：把每次出狀況的產品成分一起對照，找出反覆出現的那個成分——那才是真正的過敏原。所有比對與 AI 解釋都在裝置本機執行，個人過敏資料從不上傳第三方伺服器。\n\nv2.0 加入 iCloud 跨裝置同步、家人模式（父母可幫無手機的小朋友、長輩管理過敏原）、桌面與鎖定畫面 Widget、季節提醒、iOS 捷徑、日韓保養品 OCR。是台灣個人開發者用最新 Apple 技術做的小而完整的健康工具。",
+    "founderTitle": "開發者",
+    "founder": "我有三個女兒，每次擦東西冒疹子，我從來不知道是哪個成分害的——只能換牌子、再冒疹子、再猜。\n\n肌敏雷達就是為這個困境做的：除了掃單一產品，更重要的是「比較踩雷產品」功能——把每次出狀況的成分一起對照，找出反覆出現的那一個，那才是真正的過敏原。\n\n後來加上家人模式（分別追蹤三個女兒）、Apple Intelligence 白話解釋、iCloud 同步。身為 iOS 開發者，我想用最新的 Apple 技術做一個對自己孩子真的有用的 app，並把它送給所有有同樣困擾的家庭。",
+    "builtwithTitle": "技術棧",
+    "builtwithApple": "Apple Frameworks（裝置端、原生整合）",
+    "builtwithAppleList": [
+      "Apple Intelligence / Foundation Models——裝置端 AI 成分白話解釋（iOS 26+）",
+      "CloudKit——iCloud 私人容器跨裝置同步",
+      "SwiftData——原生資料層 + CloudKit mirror",
+      "SwiftUI——全 App 純 SwiftUI（含 iOS 26 Liquid Glass）",
+      "Vision——裝置端 OCR，支援繁中／英／日／韓",
+      "WidgetKit——主畫面 / 鎖定畫面 / 控制中心 Widget",
+      "App Intents——iOS 捷徑、Siri 觸發",
+      "Sign in with Apple——唯一登入方式"
+    ],
+    "builtwithCompliance": "Compliance",
+    "builtwithComplianceList": [
+      "PrivacyInfo.xcprivacy——iOS 17+ Privacy Manifest 完整宣告",
+      "App Transport Security——強制 HTTPS",
+      "無第三方 SDK——無 Firebase、無 Crashlytics、無分析追蹤"
+    ],
+    "builtwithInfra": "Supporting Infrastructure",
+    "builtwithInfraList": [
+      "Supabase——廠商商品資料（與個人資料完全隔離）",
+      "Swift Testing——74 unit tests"
+    ],
+    "assetsTitle": "下載素材",
+    "assetsNote": "高解析 App Icon、截圖、Logo 等媒體素材，來信索取。",
+    "contactTitle": "媒體聯絡",
+    "contactEmail": "Email",
+    "contactResponse": "回覆時間",
+    "contactResponseV": "通常 24 小時內",
+    "contactLangs": "可使用語言",
+    "contactLangsV": "繁體中文 / English",
+    "contactLocation": "所在地",
+    "contactLocationV": "台北，台灣"
+  },
+  "privacy": {
+    "title": "隱私權政策",
+    "lastUpdated": "最後更新：2026 年 5 月 11 日",
+    "intro": "肌敏雷達的核心原則很簡單：你的過敏資料屬於你。本政策用最白話的方式說明 App 處理哪些資料、資料存在哪裡、以及開發者（我）能看到或看不到哪些東西。",
+    "tldrTitle": "重點摘要",
+    "tldr": [
+      "成分辨識（OCR）在你的裝置本機執行，照片與成分文字從不離開裝置。",
+      "AI 成分解釋使用 Apple Intelligence 在裝置端執行，完全不經雲端 AI。",
+      "你的個人過敏資料（家人、過敏原、儲存的產品、掃描紀錄）存在你的 iCloud 私人容器，由 Apple 加密，開發者無法讀取。",
+      "登入使用 Sign in with Apple，開發者看不到你的姓名、Email、Apple ID。",
+      "無任何第三方分析、廣告 SDK、tracker。",
+      "廠商商品資料（推薦功能使用）獨立存放於 Supabase，與你的個人資料完全隔離。"
+    ],
+    "section1Title": "1. App 處理的資料",
+    "section1": "僅限裝置端：你拍的成分照片、辨識出的文字、AI 產生的成分解釋、OCR 語言偏好。以上資料不會上傳到任何伺服器——包括我們的。\n\niCloud 私人容器：家人 profile、過敏原清單、儲存的產品、掃描紀錄、App 設定。透過 Apple CloudKit 在你自己的 Apple 裝置間同步。Apple 持有加密金鑰，我們無法存取。\n\n廠商資料（獨立）：推薦功能使用一份公開的保養品目錄，存放於 Supabase。此目錄不會記錄任何關於你的資訊。",
+    "section2Title": "2. Sign in with Apple",
+    "section2": "我們僅使用 Sign in with Apple 作為登入方式。除非你明確同意，否則 Apple 不會把你的 Email 與姓名提供給我們。App 只看到一個不透明的使用者識別碼，用以路由你的 iCloud 資料。",
+    "section3Title": "3. 開發者能看到什麼",
+    "section3": "我們看不到你掃描的照片、辨識出的成分、家人名稱、過敏原、產品、掃描紀錄。以上資料都存在你的裝置上或你的 iCloud 私人容器。\n\n我們能看到的，只有 Apple 提供給所有開發者的 App Store 統計數據（下載量、國家、版本），這些資料無法對應到個別使用者。",
+    "section4Title": "4. 第三方服務",
+    "section4": "Supabase：儲存公開的廠商商品目錄。不會接收任何個人資料。\nApple iCloud / CloudKit：在你的私人容器儲存個人過敏資料，由 Apple 加密。\nApple Sign In：處理登入驗證。\n\n除此之外無其他第三方服務。無 Google Analytics、無 Firebase、無 Crashlytics、無 Sentry、無 Facebook SDK、無任何廣告 SDK。",
+    "section5Title": "5. 兒童使用",
+    "section5": "肌敏雷達設計給父母幫孩子追蹤過敏原。父母在自己的裝置上以自己的 Apple ID 操作 App，孩子不直接使用 App。我們不會在知情下收集 13 歲以下兒童的資料。",
+    "section6Title": "6. 你的權利",
+    "section6": "你可以隨時刪除所有資料：登出後移除 App，或從「設定 → Apple ID → iCloud → 管理帳號儲存空間」刪除本 App 的 iCloud 資料。",
+    "section7Title": "7. 政策變更",
+    "section7": "若有重大變更，我們會更新本頁的「最後更新」日期，必要時於 App 內通知。",
+    "section8Title": "8. 聯絡",
+    "section8": "有疑問？來信 ccccaiwork@gmail.com，通常 24 小時內回覆，中英皆可。"
+  },
+  "support": {
+    "title": "支援",
+    "subtitle": "遇到問題或有疑問？這裡告訴你怎麼找到我們。",
+    "contactTitle": "聯絡我們",
+    "contactBody": "Email ccccaiwork@gmail.com，通常 24 小時內回覆，中／英皆可。",
+    "contactCta": "寄信給支援",
+    "faqTitle": "常見問題",
+    "faq": [
+      {
+        "q": "肌敏雷達會把我的資料傳到雲端嗎？",
+        "a": "你的個人過敏資料只在你自己的 Apple 裝置間透過 iCloud 同步（由 Apple 加密）。開發者無法讀取。成分 OCR 與 AI 解釋全程在裝置端執行。詳細說明見隱私權政策。"
+      },
+      {
+        "q": "為什麼 Apple Intelligence 沒有顯示 AI 解釋？",
+        "a": "Apple Intelligence 需要 iOS 26+ 並支援的裝置（iPhone 15 Pro 或更新）。如果是較舊裝置或較舊 iOS，App 其他功能正常運作，僅 AI 白話解釋功能不可用。"
+      },
+      {
+        "q": "我刪掉 App 又重灌，過敏原資料還會回來嗎？",
+        "a": "會。用同一個 Apple ID 登入，iCloud 同步的資料（家人、過敏原、產品、掃描紀錄）會自動還原。"
+      },
+      {
+        "q": "我換新 iPhone，資料會跟過去嗎？",
+        "a": "會。新裝置上用 Sign in with Apple 登入，iCloud 會在幾分鐘內把所有資料同步過去。"
+      },
+      {
+        "q": "OCR 支援哪些語言？",
+        "a": "繁中、英、日、韓四種。可在「設定 → OCR 語言」啟用想用的語言。"
+      },
+      {
+        "q": "最多可以加幾位家人？",
+        "a": "最多 5 位，一般家庭夠用。「我」這個 profile 會自動建立。"
+      },
+      {
+        "q": "可以匯出過敏原清單嗎？",
+        "a": "可以。在「過敏原清單」分頁可匯出 / 匯入，方便與醫師分享或大幅變動前備份。"
+      },
+      {
+        "q": "App 真的免費？有什麼陷阱？",
+        "a": "真的免費。無 IAP、無廣告、無第三方 tracker。這是一位個人開發者為了自己孩子做出來的工具，希望分享給有同樣需要的家庭。"
+      },
+      {
+        "q": "我發現成分配對錯誤 / 有 bug，怎麼回報？",
+        "a": "寄 email 到 ccccaiwork@gmail.com，附上截圖或簡短描述。越具體越好——「X 產品說 Y 成分有風險，但 Y 是鹽類形式不是母體化合物」比「配對錯了」更實用。"
+      },
+      {
+        "q": "可以提功能需求嗎？",
+        "a": "可以，email 最方便。這個 App 的 roadmap 跟著「敏感肌家庭真正需要什麼」走，所以你具體的使用情境分享有助於我排優先序。"
+      }
+    ]
+  }
+}
